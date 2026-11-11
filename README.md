@@ -1,6 +1,6 @@
 <a href="https://nataliagonzaing-cloud.github.io"><img src="https://nataliagonzaing-cloud.github.io/img/og.jpg" alt="Natalia Gonza · Portafolio de proyectos" width="100%"></a>
 
-## Hola, soy Natalia 👋
+## Hola, soy Natalia
 
 **Ingeniera en Electrónica** (Universidad Nacional de Moreno) y **Técnica en Artes Multimediales**. Enseño Sistemas Embebidos en escuelas secundarias técnicas y trabajo en el cruce entre la electrónica, la programación y el arte: prototipos con microcontroladores, instalaciones interactivas y herramientas para resolver problemas concretos.
 
@@ -16,12 +16,12 @@ Me gusta el proceso completo: pensar la idea, diseñar el circuito, programarlo,
 | [**Taller de Llaveros**](https://nataliagonzaing-cloud.github.io/#destacados) | App web para crear llaveros, toppers y cuentas imprimibles en 3D, hecha con ayuda de IA. |
 | [**Escáner**](https://nataliagonzaing-cloud.github.io/escaner/) | App web para pasar fotos de documentos a PDF, sin publicidad. |
 
-👉 Todos los proyectos, con fotos, videos e informes: **[nataliagonzaing-cloud.github.io](https://nataliagonzaing-cloud.github.io)**
+Todos los proyectos, con fotos, videos e informes: **[nataliagonzaing-cloud.github.io](https://nataliagonzaing-cloud.github.io)**
 
-### 🧰 Herramientas
+###  Herramientas
 
 `ESP32` · `Arduino / AVR` · `C / C++` · `Python` · `Processing` · `UART · I2C` · `Wi-Fi · Bluetooth` · `NeoPixel` · `Motores paso a paso` · `GRBL / CNC` · `Kinect` · `Impresión 3D`
 
-### 📫 Contacto
+###  Contacto
 
 [nataliagonzaing@gmail.com](mailto:nataliagonzaing@gmail.com) · [LinkedIn](https://www.linkedin.com/in/natalia-sabrina-gonza-85b81042) · [YouTube](https://www.youtube.com/@NataliaGonza) · [TikTok](https://www.tiktok.com/@nati_gonza)
